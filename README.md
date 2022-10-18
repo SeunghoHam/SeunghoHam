@@ -7,4 +7,4 @@ https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d
 
 
 
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlaeotjd12)](https://solved.ac/tlaeotjd12)
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=SeunghoHam)](https://solved.ac/SeunghoHam)
