@@ -4,3 +4,7 @@
 https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeunghoHam&show_icons=true&theme=radical)
+
+
+
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlaeotjd12)](https://solved.ac/tlaeotjd12)
