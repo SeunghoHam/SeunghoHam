@@ -2,7 +2,7 @@
 
 https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=7668ee&height=300&section=header&text=Seungho%20Ham&fontSize=90&fontColor=fffafa&animation=fadeIn&fontAlign=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6a5acd&height=300&section=header&text=Seungho%20Ham&fontSize=90&fontColor=fffafa&animation=fadeIn&fontAlign=60)
 
 https://img.shields.io/badge/뱃지에쓸글씨-색상코드?style=flat-square&logo=쓰고싶은 아이콘이름&logoColor=white&link=링크
 ![header](https://img.shields.io/badge/Unity%20Engine-a9a9a9?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom)
