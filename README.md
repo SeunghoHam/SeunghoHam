@@ -10,7 +10,7 @@
 ![header](https://img.shields.io/badge/Unity%20Engine-a9a9a9?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom)
 ![header](https://img.shields.io/badge/테스트1%20테스트2-00ffff?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom)
 
-<3 align ="center"><b> 테크 스택 > </b></h3>
+<h3 align="center"><b> 테크 스택 > </b></h3>
 <img src="https://img.shields.io/badge/C-AFEEEE?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 
 
