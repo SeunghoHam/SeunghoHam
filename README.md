@@ -1,4 +1,4 @@
-Profile : https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6a5acd&height=300&section=header&text=Seungho%20Ham&fontSize=90&fontColor=fffafa&animation=fadeIn&fontAlign=60)
 
@@ -15,7 +15,7 @@ Profile : https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d
 
 
 
-
+Profile : https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeunghoHam&show_icons=true&theme=radical) -->
 
