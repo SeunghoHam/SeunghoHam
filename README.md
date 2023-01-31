@@ -21,3 +21,9 @@ Profile : https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d
 
 
 
+#### <h3 align="center"><b> Github Stats > </b></h3>
+pikokr
+[![SeunghoHam's github stats](https://github-readme-stats.vercel.app/api?username=SeunghoHam&bg_color=ffa745,fe869f,ef7ac8,a083ed,43aeff&title_color=fff&text_color=fff&show_icons=true&count_private=true)](https://github.com/SeunghoHam)
+
+#### <h3 align="center"><b> Languages > </b></h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeunghoHam&layout=compact)](https://github.com/SeunghoHam)
