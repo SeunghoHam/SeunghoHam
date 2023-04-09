@@ -15,7 +15,7 @@
 
 
 
-<h3 align="left"><b> ProfileNotion : https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d </b></h3>
+<h3 align="left"><b> ProfileNotion : endpoint?url=<https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d>&style<?style=flat-square&logo=appveyor> </b></h3>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeunghoHam&show_icons=true&theme=radical) -->
 
