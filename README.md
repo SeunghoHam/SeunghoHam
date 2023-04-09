@@ -11,11 +11,11 @@
 <img src="https://img.shields.io/badge/C-AFEEEE?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 -->
 
-<h3 align="center"><b>함승호</b></h3>
+<h1 align="center"><b>함승호</b></h1>
 
 
 
-<h3 align="left"><b> ProfileNotion </b></h3> : https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d
+<h3 align="left"><b> ProfileNotion : https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d </b></h3>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeunghoHam&show_icons=true&theme=radical) -->
 
