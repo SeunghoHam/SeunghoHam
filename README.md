@@ -13,7 +13,7 @@
 
 <h1 align="center"><b>함승호</b></h1>
 
-
+![header](https://img.shields.io/badge/ProfileNotion-123456?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d)
 
 (<h3 align="left"><b> ProfileNotion &link=https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d) </b></h3>
   
