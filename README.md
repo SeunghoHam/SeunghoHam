@@ -15,13 +15,8 @@
 
 
 
-![header](https://img.shields.io/badge/ProfileNotion-123456?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d
+![header](https://img.shields.io/badge/ProfileNotion-123456?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d)
 <h3 align="left"><b> https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d </b></h3>
-
-<h3 align="left"><b> ProfileNotion &link= </b></h3>
-  
-  : endpoint?url=<https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d>&style<?style=flat-square&logo=appveyor> 
-
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeunghoHam&show_icons=true&theme=radical) -->
