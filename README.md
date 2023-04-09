@@ -13,8 +13,7 @@
 <img src="https://img.shields.io/badge/C-AFEEEE?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 
 
-
-Profile : https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d
+<h3 align="left"><b> ProfileNotion </b></h3> : https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeunghoHam&show_icons=true&theme=radical) -->
 
