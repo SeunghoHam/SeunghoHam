@@ -6,6 +6,7 @@
 <p align="center">게임 클라이언트 개발자 입니다! </p>
 -->
 
+
 ![header](https://img.shields.io/badge/Unity%20Engine-a9a9a9?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom)
 ![header](https://img.shields.io/badge/테스트1%20테스트2-00ffff?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom)
 
@@ -13,7 +14,7 @@
 <img src="https://img.shields.io/badge/C-AFEEEE?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 
 
-<h3 align="left"><b> ProfileNotion </b></h3> : https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d
+<h3 align="left"><b> ProfileNotion  : https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d </b></h3>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeunghoHam&show_icons=true&theme=radical) -->
 
