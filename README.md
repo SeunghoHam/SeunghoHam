@@ -14,11 +14,11 @@
 <h1 align="center"><b>함승호</b></h1>
 
 
-![header](https://img.shields.io/badge/ProfileNotion-123456?style=for-the-badge&logl=appveyor&logo=Notion&logoColor=white&link=https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d)
+![header](https://img.shields.io/badge/ProfileNotion-123456?style=flat-square&logl=appveyor&logo=Notion&logoColor=white&link=https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d)
 <h3 align="left"><b>https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d </b></h3>
 
 
-(https://img.shields.io/badge/Unity-123456?style=flat-square&logo=Unity&logoColor=white) 
+![header](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white) ![header](https://img.shields.io/badge/UnrealEngine-000000?style=flat-square&logo=UnrealEngine&logoColor=white)  
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeunghoHam&show_icons=true&theme=radical) -->
 
