@@ -15,7 +15,7 @@
 
 
 flatsquare&logo=Notion&logo
-![header](https://img.shields.io/badge/ProfileNotion-123456?style=for-the-badge&logl=appveyorColor=white&link=https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d)
+![header](https://img.shields.io/badge/ProfileNotion-123456?style=for-the-badge&logl=appveyor&logo=Notion&logoColor=white&link=https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d)
 https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d
 
 <h3 align="left"><b>   </b></h3>
