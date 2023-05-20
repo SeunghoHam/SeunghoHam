@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/C-AFEEEE?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 -->
 
-<h1 align="center"><b>Game Programmer</b></h1>
+<h1 align="center"><b>게임 만듭니다!</b></h1>
 
 
 ![header](https://img.shields.io/badge/ProfileNotion-123456?style=flat-square&logl=appveyor&logo=Notion&logoColor=white&link=https://www.notion.so/seunghoham/5a8c444fdccf4b7bafd774908609999d)
